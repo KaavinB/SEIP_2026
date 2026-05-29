@@ -56,7 +56,6 @@ def load_data(filename=DATA_PATH):
     return df
 
 
-st.title("Hello World!")
 st.caption("Amazon watch-review exploratory dashboard")
 
 df = load_data()
